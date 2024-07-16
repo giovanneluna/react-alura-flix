@@ -1,0 +1,71 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Hot Wheels Acceleracers",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/7/79/AcceleRacers_poster.png",
+      "link": "https://www.youtube.com/watch?v=sFaCbiNCbhM&list=PLLtk7xOCUs2iiiqYwEIOsVHTHJD_Sgwcc&ab_channel=VertWheeler",
+      "categories": "Corrida",
+      "description": "Esta é uma batalha em alta velocidade, disputada por dois times de corredores. De um lado, pilotos humanos; do outro, os mortais robôs Racing Drones. Em meio à curvas perigosas, loopings e derrapadas, eles estão no inédito longa-metragem estrelado pelas máquinas quentes Hot Wheels."
+    },
+    {
+      "id": 2,
+      "title": "Invencível",
+      "cover": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNMLTue_54gM2Rrn5M35Y-VHMfYiv2WXB3QwUn1ckVQ1IMfudJ",
+      "link": "https://www.primevideo.com/-/pt/detail/INVENC%C3%8DVEL/0K677J96WQ96K6UY6BL15O70CO",
+      "categories": "Ação",
+      "description": "Inspirada no personagem Mark Grayson da revista em quadrinhos homônima criada por Robert Kirkman, 'Invencível' acompanha um adolescente absolutamente comum, que é filho do super-herói mais poderoso do planeta. Na juventude, ele começa a desenvolver poderes e descobre a dura realidade de ser um herói."
+    },
+    {
+      "id": 3,
+      "title": "One Piece Film: Red",
+      "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRY5XDPEh-7dWoUlBDN_gFVxhZdUTsmdYYwlvuty7g7PJ8f2v9",
+      "link": "https://www.adorocinema.com/filmes/filme-298674/",
+      "categories": "Aventura",
+      "description": "Uta - a cantora mais amada do mundo. Sua voz, com a qual ela canta enquanto esconde sua verdadeira identidade, foi descrita como de outro mundo. Ela aparecerá em público pela primeira vez em um show ao vivo. Enquanto o local se enche de todos os tipos de fãs de Uta - piratas animados, a Marinha assistindo de perto e os Chapéus de Palha liderados por Luffy que simplesmente vieram para curtir sua performance sonora - a voz que o mundo inteiro estava esperando está prestes a ressoar. A história começa com o fato chocante de que ela é filha de Shanks."
+    },
+    {
+      "id": 4,
+      "title": "Bleach",
+      "cover": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/52edb7a843abacb4ff0f642c8eda1440.jpe",
+      "link": "https://www.youtube.com/watch?v=TbG0ksl-tfI",
+      "categories": "Animação",
+      "description": "Ichigo Kurosaki é um estudante de ensino médio incomum: desde pequeno, ele consegue ver fantasmas. Sua vida muda completamente quando ele e suas duas irmãs são atacados por um espírito maligno e recebem ajuda de uma shinigami, chamada Rukia Kuchiki."
+    },
+    {
+      "id": 5,
+      "title": "Transformers",
+      "cover": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQhavkQp80xMxRz8pwxQx28Kdpe5IiYlR6MxUm837EtZndumxD0c-phC0UCH41Zxw7U",
+      "link": "https://www.youtube.com/watch?v=faktWQBgxJY",
+      "categories": "Ficção Cientifica",
+      "description": "O destino da humanidade está em video quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categories": "Corrida",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "categories": "Ação",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "categories": "Aventura",
+      "color": "#FFBA05"
+    },
+    {
+      "id": 4,
+      "categories": "Animação",
+      "color": "#85FFAC"
+    },
+    {
+      "id": 5,
+      "categories": "Ficção Cientifica",
+      "color": "#993428"
+    }
+  ]
+}
